@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oberon.Web", "Oberon.Web\Oberon.Web.csproj", "{7840889C-0B72-4F70-ABA0-9626274ACDEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7840889C-0B72-4F70-ABA0-9626274ACDEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7840889C-0B72-4F70-ABA0-9626274ACDEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7840889C-0B72-4F70-ABA0-9626274ACDEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7840889C-0B72-4F70-ABA0-9626274ACDEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADF2BD27-4AEE-4C9E-9929-DDC27ECC0271}
+	EndGlobalSection
+EndGlobal
